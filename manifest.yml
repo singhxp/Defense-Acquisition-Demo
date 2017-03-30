@@ -3,7 +3,7 @@ declared-services:
     label: discovery
     plan: standard
 applications:
-  - name: discovery-news-demo
+  - name:  Defense-Acquisition-Demo
     command: npm start
     path: .
     memory: 512M
